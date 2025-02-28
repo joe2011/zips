@@ -1,0 +1,22 @@
+<settings>
+    <category label="GitHub Paths">
+        <setting id="github_path_1" type="text" label="Percorso GitHub 1" />
+        <setting id="destination_path_1" type="text" label="Destinazione Kodi 1" />
+        
+        <setting id="github_path_2" type="text" label="Percorso GitHub 2" />
+        <setting id="destination_path_2" type="text" label="Destinazione Kodi 2" />
+
+        <setting id="github_path_3" type="text" label="Percorso GitHub 3" />
+        <setting id="destination_path_3" type="text" label="Destinazione Kodi 3" />
+
+        <setting id="github_path_4" type="text" label="Percorso GitHub 4" />
+        <setting id="destination_path_4" type="text" label="Destinazione Kodi 4" />
+
+        <setting id="github_path_5" type="text" label="Percorso GitHub 5" />
+        <setting id="destination_path_5" type="text" label="Destinazione Kodi 5" />
+    </category>
+
+    <category label="Backup">
+        <setting id="backup_path" type="text" label="Percorso backup" />
+    </category>
+</settings>
